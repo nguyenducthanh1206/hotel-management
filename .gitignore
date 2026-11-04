@@ -1,0 +1,8 @@
+bin/
+obj/
+node_modules/
+dist/
+.vs/
+*.user
+release/
+backend/HotelApi/wwwroot/
